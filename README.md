@@ -9,3 +9,5 @@ reference : https://github.com/mdipierro/nlib
 
 
 from nlib import *
+
+ref (예제로 배우는 파이썬) : http://pythonstudy.xyz/
